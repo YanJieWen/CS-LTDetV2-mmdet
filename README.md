@@ -1,6 +1,6 @@
 # CS-LTDetV2-mmdetection-Implemention
 <h2>
-CS-LTDet: A Cross-Stage Feature Enhancement Detector For Large-Scale Train Crash Detection
+😗CS-LTDet: A Cross-Stage Feature Enhancement Detector For Large-Scale Train Crash Detection😗
 
 <h2>
 Bechmark: Crash2024
