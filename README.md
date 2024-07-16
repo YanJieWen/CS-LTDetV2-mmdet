@@ -15,7 +15,7 @@ extensive experiments are conducted on the first large-scale train collision dat
 Our code and dataset are made publicly available at [URL](https://github.com/YanJieWen/CS-LTDetV2-mmdet). 
 
 ## Contributions
-[csnet](csnet.py)
+[csnet](./mmdet/models/backbones/csnet.py)
 
 ## ACKNOWLEDGEMENT
 [mmdetection](https://github.com/open-mmlab/mmdetection)
